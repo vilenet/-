@@ -1,4 +1,4 @@
 # -
-Решение задач из книги "Павловская. С и С++ Структурное программирование. Практикум(2003)"
+Solving exercises from the book "Pavlovskaya T. A, C / C ++ Structural and object-oriented programming (2011)"
 
-Здесь приведены мои решения в двух версиях: с применением STL и без. 
+In two versions: using STL and without. 
